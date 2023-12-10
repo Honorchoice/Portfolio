@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
 Template Name: Gaurav_Portfolio
-Template URL: https://gauravchaurasiya.in.net/
+Template URL: https://gauravdeveloper.online/
 Author: Gaurav chaurasiya
 
